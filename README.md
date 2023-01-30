@@ -15,7 +15,7 @@
 - Interpreting data and presenting insights to stakeholders
 - Supporting data-driven decision-making
 
-The ultimate goal of a data analyst is to turn data into actionable insights that can drive business growth and improve decision-making. For example, Amazon Big Billion Sales :
+The ultimate goal of a data analyst is to turn data into actionable insights that can drive business growth and improve decision-making. For example, Real life Problem - "Amazon Big Billion Sales" :
 
 
 **Q. Amazon wants to decide when is the next Big Billion Sale but how he will decide that and who will decide it?**
