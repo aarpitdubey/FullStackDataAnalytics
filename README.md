@@ -22,8 +22,14 @@ The ultimate goal of a data analyst is to turn data into actionable insights tha
 
 A. The Big Billion Sale date is likely made by the company's "executives or management team", taking into account factors such as sales trends, company goals, and market conditions.
 
-- But that factors are given by data analyst They may play a role in the decision-making process for the next Amazon Big Billion Sale. 
+- But that factors are given by data analyst They may play a role in the decision-making process for the next Amazon Big Billion Sale.
 
 - A data analyst may gather and analyze data on factors such as previous sales performance, customer behavior, and market trends, and provide insights and recommendations to help inform the decision on the next sale date.
 
 - The data analysis may also help determine the best time to launch the sale, based on factors such as seasonality, competition, and market demand.
+
+![](./images/img/1_workflow_of_data_analyst.png)
+
+____________________________________________
+
+
