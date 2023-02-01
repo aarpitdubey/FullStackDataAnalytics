@@ -28,3 +28,24 @@ There are two types of Statistics :
 2. Inferential Statistics
 
 ![](./images/img/1_types_of_statistics.png)
+
+Example : Let say there are 20 classrooms in a university and you have collected the age of students in one classroom,
+
+Ages = { 21, 20, 18, 34, 17, 22, 24, 25, 26, 23, 22 }
+
+
+**Descriptive Stats** questions should be :
+
+Q. What is the  average age of the Students in the classroom?
+
+- Minimum age of students
+- Outliers
+- Distribution of the students age.
+- Transformation
+- Maximum Age of students.
+
+**Inferential Stats** questions should be :
+
+Q. Are the average Age of the student in the classroom equal to the average average ages of the entire university
+
+![](./images/img/2_inferential_stats_question.png)
