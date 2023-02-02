@@ -49,3 +49,17 @@ Q. What is the  average age of the Students in the classroom?
 Q. Are the average Age of the student in the classroom equal to the average average ages of the entire university
 
 ![](./images/img/2_inferential_stats_question.png)
+
+Q. <span style="color:Orange">Average</span> Height of all the people in the state?
+
+A. We are taking samples from various region of state of size 1000.
+
+![](./images/img/3_avg_height_using_sample_and_population.png)
+
+taking various samples we can conclude thast the average height of all the people in the state.
+
+## SAMPLING TECHNIQUES :
+
+
+
+
